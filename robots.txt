@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ridgeupgrades.com/sitemap.xml
